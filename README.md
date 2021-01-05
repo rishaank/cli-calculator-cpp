@@ -38,7 +38,7 @@ On any other platform, like MacOS, just delete all the files you installed, for 
 
 ## Editing
 
-To edit this file on any PC platform you need to have an application which can open .cpp files such as [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) (click the name to go to the installation webpage) (Dev-C++ is currently not compatible with MacOS so you can use other apps like [Xcode]([‎Xcode on the Mac App Store (apple.com)](https://apps.apple.com/us/app/xcode/id497799835?ls=1&mt=12))). I used Dev-C++ and Xcode when making this program.
+To edit this file on any PC platform you need to have an application which can open .cpp files such as [Dev-C++](https://sourceforge.net/projects/orwelldevcpp/) (click the name to go to the installation webpage) (Dev-C++ is currently not compatible with MacOS so you can use other apps like [Xcode](https://apps.apple.com/us/app/xcode/id497799835?ls=1&mt=12). I used Dev-C++ and Xcode when making this program.
 
 ## Help
 
@@ -58,5 +58,5 @@ c - clear screen
 
 Note that this calculator supports only 2 numbers at a time and it is not meant for negative, fraction, or decimal numbers or any other complicated things. This is just a basic number calculator.
 
-[You can help me improve by giving me feedback]([Feedback (google.com)](https://docs.google.com/forms/d/e/1FAIpQLSc71bEmGAFk-29IkeswDZxBIENCr4nLsSyklYH0Wf4WiKM_vg/viewform)) (Click to give feedback)
+[You can help me improve by giving me feedback](https://docs.google.com/forms/d/e/1FAIpQLSc71bEmGAFk-29IkeswDZxBIENCr4nLsSyklYH0Wf4WiKM_vg/viewform) (Click to give feedback)
 

@@ -1,4 +1,5 @@
 # Basic CLI C++ Calculator
+# DEPRECEATED
 
 This is a basic Command-line Calculator made with C++. More information can be found [here](https://github.com/rishaank/cli-calculator-cpp)
 
